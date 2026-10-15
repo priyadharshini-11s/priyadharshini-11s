@@ -1,14 +1,25 @@
 <!-- 🌷 PROFILE HEADER --><h1 align="center">👋 Hi, I'm Priyadharshini</h1><h3 align="center">💜 Aspiring AI Engineer | Data Scientist 💜</h3><p align="center">
-  <i> M.Sc Computer Science graduate interested in Artificial Intelligence, Machine Learning, and Data Science. I enjoy solving real-world problems through data analysis and predictive modeling.</i>
+ 
+<p align="center">
   <br/>
-  Passionate about AI, Machine Learning and Data Science.
-  <br/>
+  <b>🎓 M.Sc. Computer Science Graduate</b>
+  <br/><br/>
+  <i>
+    Interested in Artificial Intelligence, Machine Learning, and Data Science.
+    <br/>
+    I enjoy solving real-world problems through data analysis and predictive modeling.
+  </i>
+  <br/><br/>
+  <b>💜 Passionate about AI, Machine Learning & Data Science</b>
+  <br/><br/>
+</p>
  
 </p><p align="center">
   <a href="https://github.com/priyadharshini-11s">
     <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>---
+
 
 ## 🛠️ Technical Skills
 
@@ -56,17 +67,13 @@ Regression
 ANN · CNN · RNN
 <br/><br/>TensorFlow
 <br/>Keras
-<td valign="top" align="center">
-  <b>🧠 NLP</b>
-  <br/><br/>
-  <b>🤖 LLMs</b>
-  <br/><br/>
-  <b>✨ Generative AI</b>
-  <br/><br/>
-  <b>🔗 RAG</b>
-  <br/><br/>
-  <b>⚡ LangChain</b>
-</td>
+<td valign="top">
+NLP
+<br/>LLMs
+<br/>Generative AI
+<br/>RAG
+<br/>LangChain
+</td>  innum lite ta style add
 <td valign="top">
 Jupyter Notebook
 <br/>Google Colab
@@ -78,6 +85,7 @@ Flask
 </td>
 </tr>
 </table>---
+
 
 ## 🎯 Career Interests
 
@@ -98,13 +106,20 @@ Flask
 </tr>
 </table>
 
+
 ## 📚 Currently Pursuing
 
 <p align="center">
-  🎓 Professional training in <b>Data Science and AI Engineering</b>
   <br/>
-  at <b>DataMites</b>
+  🎓 <b>PROFESSIONAL TRAINING</b>
+  <br/><br/>
+  <b>Data Science & AI Engineering</b>
+  <br/>
+  <b>at DataMites</b>
+  <br/><br/>
 </p>
+
+
 
 ## 📜 Certifications & Assessments
 
@@ -113,6 +128,7 @@ Flask
 | DataMites                  | Course completion pending |
 | NASSCOM                    | Assessment planned        |
 | IABAC                      | Assessment planned        |
+
 
 ## 🌱 Future Learning Goals
 
@@ -124,6 +140,7 @@ Flask
   <img src="https://img.shields.io/badge/RAG-059669?style=flat-square" alt="RAG"/>
   <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt=" Model Deployment"/>
 </p>
+
 
 ## 🤝 Connect With Me
 
