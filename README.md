@@ -1,167 +1,130 @@
-<div align="center">👋 Hi, I'm Priyadharshini 💜
-
-Aspiring AI Engineer | Data Scientist
-
-🎓 M.Sc. Computer Science Graduate
-
-Better Data, Bigger Dreams ✨
-
-Passionate about Artificial Intelligence, Machine Learning, and Data Science.
-
-</div>---
+<!-- 🌷 PROFILE HEADER --><h1 align="center">👋 Hi, I'm Priyadharshini</h1><h3 align="center">💜 Aspiring AI Engineer | Data Scientist 💜</h3><p align="center">
+  <i>M.Sc. Computer Science Graduate</i>
+  <br/>
+  Passionate about AI, Machine Learning and Data Science.
+  <br/>
+  <b>✨ Better Data, Bigger Dreams ✨</b>
+</p><p align="center">
+  <a href="https://github.com/priyadharshini-11s">
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>---
 
 🛠️ Technical Skills
 
 <table>
 <tr>
-<td width="25%" valign="top">💜 Programming
-
-"Python" (https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-
-"SQL" (https://img.shields.io/badge/SQL-3730A3?style=for-the-badge&logo=mysql&logoColor=white)
-
+<th align="left">💜 Programming</th>
+<th align="left">💚 Data Analysis</th>
+<th align="left">🩷 Data Visualization</th>
+<th align="left">💙 Machine Learning</th>
+</tr>
+<tr>
+<td valign="top">
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
 </td>
-<td width="25%" valign="top">💚 Data Analysis
-
-"Pandas" (https://img.shields.io/badge/Pandas-059669?style=for-the-badge&logo=pandas&logoColor=white)
-
-"NumPy" (https://img.shields.io/badge/NumPy-10B981?style=for-the-badge&logo=numpy&logoColor=white)
-
+<td valign="top">
+<img src="https://img.shields.io/badge/Pandas-059669?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-10B981?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 </td>
-<td width="25%" valign="top">🩷 Data Visualization
-
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-DB2777?style=flat-square)
-
-"Seaborn" (https://img.shields.io/badge/Seaborn-F472B6?style=flat-square)
-
-"Power BI" (https://img.shields.io/badge/Power_BI-F59E0B?style=flat-square)
-
-"Tableau" (https://img.shields.io/badge/Tableau-EC4899?style=flat-square)
-
+<td valign="top">
+Matplotlib
+<br/>Seaborn
+<br/>Power BI
+<br/>Tableau
 </td>
-<td width="25%" valign="top">💙 Machine Learning
-
-"Scikit-learn" (https://img.shields.io/badge/Scikit--learn-2563EB?style=flat-square&logo=scikitlearn&logoColor=white)
-
-"Regression"
-
-"Classification"
-
-"Supervised Learning"
-
-"Unsupervised Learning"
-
-"Model Evaluation"
-
+<td valign="top">
+Regression
+<br/>Classification
+<br/>Supervised Learning
+<br/>Unsupervised Learning
+<br/>Model Evaluation
+<br/>Scikit-learn
 </td>
 </tr>
 <tr>
-<td valign="top">🪻 Deep Learning
-
-"ANN" "CNN" "RNN"
-
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-8B5CF6?style=flat-square&logo=tensorflow&logoColor=white)
-
-"Keras" (https://img.shields.io/badge/Keras-7C3AED?style=flat-square&logo=keras&logoColor=white)
-
+<th align="left">🪻 Deep Learning</th>
+<th align="left">🩵 AI & NLP</th>
+<th align="left">🧡 Tools</th>
+<th align="left">☁️ Deployment</th>
+</tr>
+<tr>
+<td valign="top">
+ANN · CNN · RNN
+<br/><br/>TensorFlow
+<br/>Keras
 </td>
-<td valign="top">🩵 AI & NLP
-
-"NLP"
-
-"LLMs"
-
-"Generative AI"
-
-"RAG"
-
-"LangChain"
-
+<td valign="top">
+NLP
+<br/>LLMs
+<br/>Generative AI
+<br/>RAG
+<br/>LangChain
 </td>
-<td valign="top">🧡 Tools
-
-"Jupyter Notebook"
-
-"Google Colab"
-
-"Git"
-
-"GitHub"
-
+<td valign="top">
+Jupyter Notebook
+<br/>Google Colab
+<br/>Git · GitHub
 </td>
-<td valign="top">☁️ Deployment
-
-"Flask" (https://img.shields.io/badge/Flask-3730A3?style=flat-square&logo=flask&logoColor=white)
-
-"REST APIs"
-
+<td valign="top">
+Flask
+<br/>REST APIs
 </td>
 </tr>
 </table>---
 
+🎯 Career Interests
+
 <table>
 <tr>
-<td width="50%" valign="top">🎯 Career Interests
-
-💜 AI Engineer
-
-💙 Data Scientist
-
-🩷 Machine Learning Engineer
-
+<td align="center" width="33%">
+<h3>🤖</h3>
+<b>AI Engineer</b>
 </td>
-<td width="50%" valign="top">🎓 Education
-
-M.Sc. Computer Science
-
-R.B. Gothi Jain College for Women
-
-B.Sc. Computer Science
-
-R.B. Gothi Jain College for Women
-
+<td align="center" width="33%">
+<h3>📊</h3>
+<b>Data Scientist</b>
+</td>
+<td align="center" width="33%">
+<h3>🧠</h3>
+<b>Machine Learning Engineer</b>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">📚 Currently Pursuing
+</table>📚 Currently Pursuing
 
-🎓 Professional training in:
-
-- Data Science
-- AI Engineering
-
-DataMites
-
-</td>
-<td width="50%" valign="top">📜 Certifications & Assessments
+<p align="center">
+  🎓 Professional training in <b>Data Science and AI Engineering</b>
+  <br/>
+  at <b>DataMites</b>
+</p>📜 Certifications & Assessments
 
 Certification| Status
-DataMites| Pending
-NASSCOM| Planned
-IABAC| Planned
+🎓 DataMites| Course completion pending
+🏅 NASSCOM| Assessment planned
+📘 IABAC| Assessment planned
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🚀 Future Learning Goals
+🌱 Future Learning Goals
 
-🟣 Advanced Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Advanced_ML-8B5CF6?style=flat-square" alt="Advanced ML"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=flat-square" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Generative_AI-EC4899?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-0891B2?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-059669?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt="Deployment"/>
+</p>---
 
-🔵 Deep Learning
+🤝 Connect With Me
 
-🩷 Generative AI & LLMs
-
-🟢 RAG Applications
-
-🟠 AI Model Deployment
-
-</td>
-<td width="50%" valign="top">🤝 Connect With Me
-
-""GitHub" (https://img.shields.io/badge/Visit_My_Profile-6C63FF?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/priyadharshini-11s)
-
-Learn • Build • Grow • Make an Impact 💜
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/priyadharshini-11s">
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub"/>
+  </a>
+</p><p align="center">
+  <i>I am eager to apply my technical skills to real-world projects and grow as an AI professional.</i>
+</p><p align="center">
+  💜 <b>Learn</b> &nbsp; • &nbsp; <b>Build</b> &nbsp; • &nbsp; <b>Grow</b> &nbsp; • &nbsp; <b>Make an Impact</b> 💜
+</p>
