@@ -18,7 +18,7 @@
   <a href="https://github.com/priyadharshini-11s">
     <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-</p>---
+</p>
 
 
 ## 🛠️ Technical Skills
