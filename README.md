@@ -84,12 +84,12 @@ Flask
 <br/>REST APIs
 </td>
 </tr>
-</table>---
+</table>
 
 
 ## 🎯 Career Interests
 
-<table>
+
 <tr>
 <td align="center" width="33%">
 <h3>🤖</h3>
@@ -104,21 +104,19 @@ Flask
 <b>Machine Learning Engineer</b>
 </td>
 </tr>
-</table>
 
 
 ## 📚 Currently Pursuing
 
 <p align="center">
+  🎓 <b>Professional Training</b>
   <br/>
-  🎓 <b>PROFESSIONAL TRAINING</b>
-  <br/><br/>
-  <b>Data Science & AI Engineering</b>
+  💜 Data Science & AI Engineering
   <br/>
-  <b>at DataMites</b>
-  <br/><br/>
+  🏢 <b>DataMites</b>
+  <br/>
+  ✨ Building skills for real-world AI projects
 </p>
-
 
 
 ## 📜 Certifications & Assessments
@@ -128,6 +126,7 @@ Flask
 | DataMites                  | Course completion pending |
 | NASSCOM                    | Assessment planned        |
 | IABAC                      | Assessment planned        |
+
 
 
 ## 🌱 Future Learning Goals
