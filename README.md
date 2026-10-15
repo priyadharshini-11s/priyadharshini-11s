@@ -1,9 +1,15 @@
+Hi, I'm Priyadharshini 👋
+
+Aspiring AI Engineer | Data Scientist
+
+M.Sc. Computer Science graduate interested in Artificial Intelligence, Machine Learning, and Data Science. I enjoy solving real-world problems through data analysis and predictive modeling.
+
 🛠️ Technical Skills
 
 - Programming: Python, SQL
 - Data Analysis: Pandas, NumPy
 - Data Visualization: Matplotlib, Seaborn, Power BI, Tableau
-- Machine Learning: Supervised Learning, Unsupervised Learning, Regression, Classification, Model Evaluation
+- Machine Learning: Supervised Learning, Regression, Classification, Model Evaluation
 - Deep Learning: ANN, CNN, RNN, TensorFlow, Keras
 - AI & NLP: NLP, LLMs, Generative AI, RAG, LangChain
 - Tools: Jupyter Notebook, Google Colab, Git, GitHub
