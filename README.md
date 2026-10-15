@@ -1,9 +1,9 @@
 <!-- 🌷 PROFILE HEADER --><h1 align="center">👋 Hi, I'm Priyadharshini</h1><h3 align="center">💜 Aspiring AI Engineer | Data Scientist 💜</h3><p align="center">
-  <i>M.Sc. Computer Science Graduate</i>
+  <i>M.Sc.  Computer Science graduate interested in Artificial Intelligence, Machine Learning, and Data Science. I enjoy solving real-world problems through data analysis and predictive modeling.</i>
   <br/>
   Passionate about AI, Machine Learning and Data Science.
   <br/>
-  <b>✨ Better Data, Bigger Dreams ✨</b>
+ 
 </p><p align="center">
   <a href="https://github.com/priyadharshini-11s">
     <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
@@ -109,12 +109,12 @@ Certification| Status
 🌱 Future Learning Goals
 
 <p>
-  <img src="https://img.shields.io/badge/Advanced_ML-8B5CF6?style=flat-square" alt="Advanced ML"/>
+  <img src="https://img.shields.io/badge/Advanced_ML-8B5CF6?style=flat-square" alt="Advanced Machine  Learning"/>
   <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=flat-square" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Generative_AI-EC4899?style=flat-square" alt="Generative AI"/>
   <img src="https://img.shields.io/badge/LLMs-0891B2?style=flat-square" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-059669?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt="Deployment"/>
+  <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt=" Model Deployment"/>
 </p>---
 
 🤝 Connect With Me
