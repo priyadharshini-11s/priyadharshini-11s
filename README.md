@@ -56,13 +56,16 @@ Regression
 ANN · CNN · RNN
 <br/><br/>TensorFlow
 <br/>Keras
-</td>
-<td valign="top">
-NLP
-<br/>LLMs
-<br/>Generative AI
-<br/>RAG
-<br/>LangChain
+<td valign="top" align="center">
+  <b>🧠 NLP</b>
+  <br/><br/>
+  <b>🤖 LLMs</b>
+  <br/><br/>
+  <b>✨ Generative AI</b>
+  <br/><br/>
+  <b>🔗 RAG</b>
+  <br/><br/>
+  <b>⚡ LangChain</b>
 </td>
 <td valign="top">
 Jupyter Notebook
@@ -93,7 +96,9 @@ Flask
 <b>Machine Learning Engineer</b>
 </td>
 </tr>
-</table>📚 Currently Pursuing
+</table>
+
+## 📚 Currently Pursuing
 
 <p align="center">
   🎓 Professional training in <b>Data Science and AI Engineering</b>
@@ -109,7 +114,7 @@ Flask
 | NASSCOM                    | Assessment planned        |
 | IABAC                      | Assessment planned        |
 
-🌱 Future Learning Goals
+## 🌱 Future Learning Goals
 
 <p>
   <img src="https://img.shields.io/badge/Advanced_ML-8B5CF6?style=flat-square" alt="Advanced Machine  Learning"/>
@@ -118,24 +123,24 @@ Flask
   <img src="https://img.shields.io/badge/LLMs-0891B2?style=flat-square" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-059669?style=flat-square" alt="RAG"/>
   <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt=" Model Deployment"/>
-</p>---
+</p>
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:reshmapriya2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/priya-s2001">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/priyadharshini-11s">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Open to opportunities in Artificial Intelligence, Data Science, and Machine Learning.</i>
+  <b>🚀 Open to opportunities in Artificial Intelligence, Data Science, and Machine Learning Engineer.</b>
 </p>
 
 <p align="center">
