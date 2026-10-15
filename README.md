@@ -86,24 +86,20 @@ Flask
 </tr>
 </table>
 
-
 ## 🎯 Career Interests
 
-
-<tr>
-<td align="center" width="33%">
-<h3>🤖</h3>
-<b>AI Engineer</b>
-</td>
-<td align="center" width="33%">
-<h3>📊</h3>
-<b>Data Scientist</b>
-</td>
-<td align="center" width="33%">
-<h3>🧠</h3>
-<b>Machine Learning Engineer</b>
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <th>🤖 AI Engineer</th>
+    <th>📊 Data Scientist</th>
+    <th>🧠 Machine Learning Engineer</th>
+  </tr>
+  <tr>
+    <td align="center">Artificial Intelligence</td>
+    <td align="center">Data Analysis & Insights</td>
+    <td align="center">ML Models & Prediction</td>
+  </tr>
+</table>
 
 
 ## 📚 Currently Pursuing
