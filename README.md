@@ -117,50 +117,43 @@ Flask
 
 <div align="center">
 
-# 📊 Data Science Projects
 
-### Click to Explore My Projects
-
-</div>
-
----
+<h2 align="center">💜 My Projects Portfolio</h2>
+<p align="center">Explore my work in Data Science, AI Engineering, and Web Development.</p>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🌍 Earthquake Damage Prediction
+### 📊 Data Science Projects
 
-[**View Project & Code →**](https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML)
+Explore my data analysis and machine learning projects.
 
-</td>
-<td align="center" width="50%">
-
-### 🩺 Skin Disorder Prediction
-
-[**View Project & Code →**](https://github.com/priyadharshini-11s/skin-disorder-prediction)
+<a href="https://github.com/priyadharshini-11s/Data-Science-Projects">
+<strong>View Projects →</strong>
+</a>
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🦠 COVID-19 Cases Prediction
+### 🤖 AI Engineer Projects
 
-[**View Project & Code →**](https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19)
+Explore my AI and deep learning projects.
+
+<strong>Coming Soon</strong>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### ✈️ Flight Price Prediction
+### 🌐 Web Development
 
-[**View Project & Code →**](https://github.com/priyadharshini-11s/Flight-Fare-Prediction)
+Explore my HTML, CSS, and JavaScript projects.
+
+<strong>Coming Soon</strong>
 
 </td>
 </tr>
 </table>
-
-
 
 ## 📜 Certifications & Assessments
 
