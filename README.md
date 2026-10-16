@@ -124,7 +124,7 @@ Flask
 
 
 
-
+<h2>📁 Projects</h2>
 <h2 align="center">📊 Data Science Projects</h2>
 <p align="center">Click to explore my projects</p>
 
