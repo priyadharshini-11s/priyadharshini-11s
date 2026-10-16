@@ -115,33 +115,51 @@ Flask
 </p>
 
 
-
 <div align="center">
 
-<a href="https://github.com/priyadharshini-11s/Data-Science-Projects">
+# 📊 Data Science Projects
+
+### Click to Explore My Projects
+
+</div>
+
+---
 
 <table>
 <tr>
-<td align="center" width="450">
+<td align="center" width="50%">
 
-<h2>📊 Data Science Projects</h2>
+### 🌍 Earthquake Damage Prediction
 
-<p>Explore My 4 Projects</p>
+[**View Project & Code →**](https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML)
 
-<p>🌍 Earthquake Damage Prediction</p>
-<p>🩺 Skin Disorder Prediction</p>
-<p>🦠 COVID-19 Cases Prediction</p>
-<p>✈️ Flight Price Prediction</p>
+</td>
+<td align="center" width="50%">
 
-<b>Click to View All Projects →</b>
+### 🩺 Skin Disorder Prediction
+
+[**View Project & Code →**](https://github.com/priyadharshini-11s/skin-disorder-prediction)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🦠 COVID-19 Cases Prediction
+
+[**View Project & Code →**](https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19)
+
+</td>
+<td align="center" width="50%">
+
+### ✈️ Flight Price Prediction
+
+[**View Project & Code →**](https://github.com/priyadharshini-11s/Flight-Fare-Prediction)
 
 </td>
 </tr>
 </table>
 
-</a>
-
-</div>
 
 
 ## 📜 Certifications & Assessments
