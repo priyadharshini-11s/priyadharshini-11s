@@ -86,6 +86,8 @@ Flask
 </tr>
 </table>
 
+
+
 ## 🎯 Career Interests
 
 <table align="center">
@@ -100,6 +102,8 @@ Flask
     <td align="center">ML Models & Prediction</td>
   </tr>
 </table>
+
+
 
 
 ## 📚 Currently Pursuing
@@ -118,42 +122,67 @@ Flask
 <div align="center">
 
 
-<h2 align="center">💜 My Projects Portfolio</h2>
-<p align="center">Explore my work in Data Science, AI Engineering, and Web Development.</p>
+
+
+
+<h2 align="center">📊 Data Science Projects</h2>
+<p align="center">Click to explore my projects</p>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-### 📊 Data Science Projects
+### 🌍 Earthquake Damage Prediction
 
-Explore my data analysis and machine learning projects.
-
-<a href="https://github.com/priyadharshini-11s/Data-Science-Projects">
-<strong>View Projects →</strong>
-</a>
+<a href="https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML">View Project & Code →</a>
 
 </td>
-<td align="center" width="33%">
+<td width="50%" align="center">
 
-### 🤖 AI Engineer Projects
+### 🩺 Skin Disorder Prediction
 
-Explore my AI and deep learning projects.
-
-<strong>Coming Soon</strong>
+<a href="https://github.com/priyadharshini-11s/skin-disorder-prediction">View Project & Code →</a>
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td width="50%" align="center">
 
-### 🌐 Web Development
+### 🦠 COVID-19 Cases Prediction
 
-Explore my HTML, CSS, and JavaScript projects.
+<a href="https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19">View Project & Code →</a>
 
-<strong>Coming Soon</strong>
+</td>
+<td width="50%" align="center">
+
+### ✈️ Flight Fare Prediction
+
+<a href="https://github.com/priyadharshini-11s/Flight-Fare-Prediction">View Project & Code →</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📦 Forecasting Spare Parts Inventory
+
+<a href="https://github.com/priyadharshini-11s/spare-parts-inventory-forecasting">View Project & Code →</a>
 
 </td>
 </tr>
 </table>
+
+<h2 align="center">🤖 AI Engineer Projects</h2>
+<p align="center">Click to explore my projects</p>
+
+<p align="center">🚧 AI projects coming soon</p>
+
+<h2 align="center">🌐 Web Development</h2>
+<p align="center">HTML • CSS • JavaScript</p>
+<p align="center">🚧 Projects coming soon</p>
+
+
+
 
 ## 📜 Certifications & Assessments
 
@@ -162,6 +191,7 @@ Explore my HTML, CSS, and JavaScript projects.
 | DataMites                  | Course completion pending |
 | NASSCOM                    | Assessment planned        |
 | IABAC                      | Assessment planned        |
+
 
 
 
@@ -175,6 +205,7 @@ Explore my HTML, CSS, and JavaScript projects.
   <img src="https://img.shields.io/badge/RAG-059669?style=flat-square" alt="RAG"/>
   <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt=" Model Deployment"/>
 </p>
+
 
 
 ## 🤝 Connect With Me
