@@ -20,7 +20,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Technical Skills
 
@@ -121,7 +120,7 @@ REST APIs
 </tr>
 </table>
 
----
+
 
 ## 🎯 Career Interests
 
@@ -157,7 +156,6 @@ REST APIs
 </tr>
 </table>
 
----
 
 ## 🔍 Current Focus
 
@@ -193,7 +191,7 @@ REST APIs
   <img src="https://img.shields.io/badge/Focus-Real--World_Projects-A78BFA?style=flat-square"/>
 </p>
 
----
+
 
 ## 📁 Projects Portfolio
 
@@ -273,7 +271,7 @@ Inventory forecasting project focused on spare parts demand.
 </tr>
 </table>
 
----
+
 
 ### 🤖 AI Engineer Projects
 
@@ -302,7 +300,6 @@ Future projects in LLMs, RAG, and AI applications.
 </tr>
 </table>
 
----
 
 ### 🌐 Web Development Projects
 
@@ -337,13 +334,14 @@ Learning and building web projects.
 </tr>
 </table>
 
----
+
 
 ## 📚 Professional Training
 
-<table>
-<tr>
-<td align="center">
+**Data Science & AI Engineering — DataMites**
+
+Currently pursuing professional training in Data Science and Artificial Intelligence, with a focus on practical learning, machine learning techniques, predictive modeling, and developing skills to solve real-world problems.
+
 
 🎓 **Data Science & AI Engineering**
 
@@ -359,7 +357,6 @@ Learning and building web projects.
 </tr>
 </table>
 
----
 
 ## 📜 Certifications & Assessments
 
@@ -369,7 +366,7 @@ Learning and building web projects.
 | 📘 NASSCOM | Assessment planned |
 | 📗 IABAC | Assessment planned |
 
----
+
 
 ## 🌱 Future Learning Goals
 
@@ -381,8 +378,6 @@ Learning and building web projects.
   <img src="https://img.shields.io/badge/RAG-059669?style=flat-square"/>
   <img src="https://img.shields.io/badge/Model_Deployment-F97316?style=flat-square"/>
 </p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -398,7 +393,6 @@ Learning and building web projects.
   </a>
 </p>
 
----
 
 <p align="center">
   <b>🚀 Open to opportunities in AI Engineering, Data Science & Machine Learning.</b>
