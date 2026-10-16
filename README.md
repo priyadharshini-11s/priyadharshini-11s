@@ -344,14 +344,8 @@ Currently pursuing professional training in Data Science and Artificial Intellig
 
 
 🎓 **Data Science & AI Engineering**
-
 <br/><br/>
-
-🏢 DataMites
-
-<br/><br/>
-
-💜 Developing practical skills through training and projects.
+🏢 DataMites💜 Developing practical skills through training and projects.
 
 </td>
 </tr>
