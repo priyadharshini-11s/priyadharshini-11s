@@ -1,163 +1,242 @@
-<!-- 🌷 PROFILE HEADER --><h1 align="center">👋 Hi, I'm Priyadharshini</h1><h3 align="center">💜 Aspiring AI Engineer | Data Scientist 💜</h3><p align="center">
- 
+ <!-- 🌷 PROFILE HEADER -->
+
+<h1 align="center">👋 Hi, I'm Priyadharshini</h1>
+
+<h3 align="center">💜 Aspiring AI Engineer | Data Scientist 💜</h3>
+
 <p align="center">
-  <br/>
   <b>🎓 M.Sc. Computer Science Graduate</b>
   <br/><br/>
-  <i>
-    Interested in Artificial Intelligence, Machine Learning, and Data Science.
-    <br/>
-    I enjoy solving real-world problems through data analysis and predictive modeling.
-  </i>
+  <i>Interested in Artificial Intelligence, Machine Learning, and Data Science.</i>
+  <br/>
+  I enjoy solving real-world problems through data analysis and predictive modeling.
   <br/><br/>
   <b>💜 Passionate about AI, Machine Learning & Data Science</b>
-  <br/><br/>
 </p>
- 
-</p><p align="center">
+
+<p align="center">
   <a href="https://github.com/priyadharshini-11s">
-    <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
 
 ## 🛠️ Technical Skills
 
 <table>
 <tr>
-<th align="left">💜 Programming</th>
-<th align="left">💚 Data Analysis</th>
-<th align="left">🩷 Data Visualization</th>
-<th align="left">💙 Machine Learning</th>
+<th align="center">💜 Programming</th>
+<th align="center">💚 Data Analysis</th>
+<th align="center">🩷 Visualization</th>
+<th align="center">💙 Machine Learning</th>
 </tr>
 <tr>
-<td valign="top">
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<td valign="top" width="25%">
+
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white"/>
+
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Pandas-059669?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<td valign="top" width="25%">
+
+<img src="https://img.shields.io/badge/Pandas-059669?style=flat-square&logo=pandas&logoColor=white"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/NumPy-10B981?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/NumPy-10B981?style=flat-square&logo=numpy&logoColor=white"/>
+
 </td>
-<td valign="top">
-Matplotlib
-<br/>Seaborn
-<br/>Power BI
-<br/>Tableau
+<td valign="top" width="25%">
+
+🎨 Matplotlib
+<br/><br/>
+📊 Seaborn
+<br/><br/>
+📈 Power BI
+<br/><br/>
+📉 Tableau
+
 </td>
-<td valign="top">
+<td valign="top" width="25%">
+
 Regression
-<br/>Classification
-<br/>Supervised Learning
-<br/>Unsupervised Learning
-<br/>Model Evaluation
-<br/>Scikit-learn
+<br/><br/>
+Classification
+<br/><br/>
+Supervised Learning
+<br/><br/>
+Unsupervised Learning
+<br/><br/>
+Model Evaluation
+<br/><br/>
+Scikit-learn
+
 </td>
 </tr>
 <tr>
-<th align="left">🪻 Deep Learning</th>
-<th align="left">🩵 AI & NLP</th>
-<th align="left">🧡 Tools</th>
-<th align="left">☁️ Deployment</th>
+<th align="center">🪻 Deep Learning</th>
+<th align="center">🩵 AI & NLP</th>
+<th align="center">🧡 Tools</th>
+<th align="center">☁️ Deployment</th>
 </tr>
 <tr>
 <td valign="top">
+
 ANN · CNN · RNN
-<br/><br/>TensorFlow
-<br/>Keras
-<td valign="top">
-NLP
-<br/>LLMs
-<br/>Generative AI
-<br/>RAG
-<br/>LangChain
-</td>  innum lite ta style add
-<td valign="top">
-Jupyter Notebook
-<br/>Google Colab
-<br/>Git · GitHub
+<br/><br/>
+TensorFlow
+<br/><br/>
+Keras
+
 </td>
 <td valign="top">
+
+NLP
+<br/><br/>
+LLMs
+<br/><br/>
+Generative AI
+<br/><br/>
+RAG
+<br/><br/>
+LangChain
+
+</td>
+<td valign="top">
+
+Jupyter Notebook
+<br/><br/>
+Google Colab
+<br/><br/>
+Git · GitHub
+
+</td>
+<td valign="top">
+
 Flask
-<br/>REST APIs
+<br/><br/>
+REST APIs
+
 </td>
 </tr>
 </table>
 
-
+---
 
 ## 🎯 Career Interests
 
-<table align="center">
-  <tr>
-    <th>🤖 AI Engineer</th>
-    <th>📊 Data Scientist</th>
-    <th>🧠 Machine Learning Engineer</th>
-  </tr>
-  <tr>
-    <td align="center">Artificial Intelligence</td>
-    <td align="center">Data Analysis & Insights</td>
-    <td align="center">ML Models & Prediction</td>
-  </tr>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<h3>🤖</h3>
+
+<b>AI Engineer</b>
+
+<sub>Artificial Intelligence</sub>
+
+</td>
+<td align="center" width="33%">
+
+<h3>📊</h3>
+
+<b>Data Scientist</b>
+
+<sub>Data Analysis & Insights</sub>
+
+</td>
+<td align="center" width="33%">
+
+<h3>🧠</h3>
+
+<b>Machine Learning Engineer</b>
+
+<sub>ML Models & Prediction</sub>
+
+</td>
+</tr>
 </table>
 
-
-
+---
 
 ## 📚 Currently Pursuing
 
-<p align="center">
-  🎓 <b>Professional Training</b>
-  <br/>
-  💜 Data Science & AI Engineering
-  <br/>
-  🏢 <b>DataMites</b>
-  <br/>
-  ✨ Building skills for real-world AI projects
-</p>
+<table>
+<tr>
+<td align="center">
 
+🎓 **Professional Training**
 
-<div align="center">
+<br/><br/>
 
+💜 Data Science & AI Engineering
 
+<br/>
 
+🏢 **DataMites**
 
-<h2>📁 Projects</h2>
-<h2 align="center">📊 Data Science Projects</h2>
-<p align="center">Click to explore my projects</p>
+<br/><br/>
+
+✨ Building skills for real-world AI projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📁 Projects
+
+### 📊 Data Science Projects
+
+<p><i>Click a project to explore its code and details.</i></p>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🌍 Earthquake Damage Prediction
 
-<a href="https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML">View Project & Code →</a>
+Predicting earthquake damage using machine learning.
+
+<a href="https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML">
+<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🩺 Skin Disorder Prediction
 
-<a href="https://github.com/priyadharshini-11s/skin-disorder-prediction">View Project & Code →</a>
+Machine learning project for skin disorder prediction.
+
+<a href="https://github.com/priyadharshini-11s/skin-disorder-prediction">
+<img src="https://img.shields.io/badge/Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### 🦠 COVID-19 Cases Prediction
 
-<a href="https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19">View Project & Code →</a>
+Analyzing COVID-19 data and predicting case trends.
+
+<a href="https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19">
+<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ### ✈️ Flight Fare Prediction
 
-<a href="https://github.com/priyadharshini-11s/Flight-Fare-Prediction">View Project & Code →</a>
+Exploratory data analysis and flight fare prediction.
+
+<a href="https://github.com/priyadharshini-11s/Flight-Fare-Prediction">
+<img src="https://img.shields.io/badge/Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -166,64 +245,77 @@ Flask
 
 ### 📦 Forecasting Spare Parts Inventory
 
-<a href="https://github.com/priyadharshini-11s/spare-parts-inventory-forecasting">View Project & Code →</a>
+Inventory forecasting project focused on spare parts demand.
+
+<a href="https://github.com/priyadharshini-11s/spare-parts-inventory-forecasting">
+<img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-<h2 align="center">🤖 AI Engineer Projects</h2>
-<p align="center">Click to explore my projects</p>
+### 🤖 AI Engineer Projects
 
-<p align="center">🚧 AI projects coming soon</p>
+<p><i>Exploring AI engineering and intelligent application development.</i></p>
 
-<h2 align="center">🌐 Web Development</h2>
-<p align="center">HTML • CSS • JavaScript</p>
-<p align="center">🚧 Projects coming soon</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-Coming_Soon-A78BFA?style=for-the-badge"/>
+</p>
 
+### 🌐 Web Development
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
+<p align="center">
+  <i>Web development projects coming soon.</i>
+</p>
+
+---
 
 ## 📜 Certifications & Assessments
 
-| Certification / Assessment | Status                    |
-| -------------------------- | ------------------------- |
-| DataMites                  | Course completion pending |
-| NASSCOM                    | Assessment planned        |
-| IABAC                      | Assessment planned        |
+| Certification / Assessment | Status |
+|:---|:---|
+| 🎓 DataMites | Course completion pending |
+| 📘 NASSCOM | Assessment planned |
+| 📗 IABAC | Assessment planned |
 
-
-
+---
 
 ## 🌱 Future Learning Goals
 
 <p>
-  <img src="https://img.shields.io/badge/Advanced_ML-8B5CF6?style=flat-square" alt="Advanced Machine  Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=flat-square" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Generative_AI-EC4899?style=flat-square" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-0891B2?style=flat-square" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-059669?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Deployment-F97316?style=flat-square" alt=" Model Deployment"/>
+  <img src="https://img.shields.io/badge/Advanced_ML-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Generative_AI-EC4899?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-0891B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Model_Deployment-F97316?style=flat-square"/>
 </p>
 
-
+---
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:reshmapriya2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/priya-s2001">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/priyadharshini-11s">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>🚀 Open to opportunities in Artificial Intelligence, Data Science, and Machine Learning Engineer.</b>
+  <b>🚀 Open to opportunities in AI Engineering, Data Science & Machine Learning.</b>
 </p>
 
 <p align="center">
