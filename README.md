@@ -1,22 +1,22 @@
- <!-- 🌷 PROFILE HEADER -->
+ <!-- 💜 PROFILE HEADER -->
 
 <h1 align="center">👋 Hi, I'm Priyadharshini</h1>
 
 <h3 align="center">💜 Aspiring AI Engineer | Data Scientist 💜</h3>
 
 <p align="center">
-  <b>🎓 M.Sc. Computer Science Graduate</b>
+  🎓 <b>M.Sc. Computer Science Graduate</b>
   <br/><br/>
   <i>Interested in Artificial Intelligence, Machine Learning, and Data Science.</i>
   <br/>
-  I enjoy solving real-world problems through data analysis and predictive modeling.
+  Passionate about solving real-world problems through data analysis and predictive modeling.
   <br/><br/>
-  <b>💜 Passionate about AI, Machine Learning & Data Science</b>
+  <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Learn%20%7C%20Build%20%7C%20Grow-8B5CF6?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/priyadharshini-11s">
-    <img src="https://img.shields.io/badge/GitHub-My_Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-My%20Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -48,13 +48,13 @@
 </td>
 <td valign="top" width="25%">
 
-🎨 Matplotlib
+📊 Matplotlib
 <br/><br/>
-📊 Seaborn
+📈 Seaborn
 <br/><br/>
-📈 Power BI
+📉 Power BI
 <br/><br/>
-📉 Tableau
+📊 Tableau
 
 </td>
 <td valign="top" width="25%">
@@ -131,7 +131,7 @@ REST APIs
 
 <h3>🤖</h3>
 
-<b>AI Engineer</b>
+**AI Engineer**
 
 <sub>Artificial Intelligence</sub>
 
@@ -140,7 +140,7 @@ REST APIs
 
 <h3>📊</h3>
 
-<b>Data Scientist</b>
+**Data Scientist**
 
 <sub>Data Analysis & Insights</sub>
 
@@ -149,7 +149,7 @@ REST APIs
 
 <h3>🧠</h3>
 
-<b>Machine Learning Engineer</b>
+**Machine Learning Engineer**
 
 <sub>ML Models & Prediction</sub>
 
@@ -159,91 +159,109 @@ REST APIs
 
 ---
 
-## 📚 Currently Pursuing
+## 🔍 Current Focus
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-🎓 **Professional Training**
+### 📊 Data Science
 
-<br/><br/>
+- Exploratory Data Analysis
+- Data preprocessing
+- Feature engineering
+- Machine learning models
+- Model evaluation and prediction
 
-💜 Data Science & AI Engineering
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### 🤖 AI Engineering
 
-🏢 **DataMites**
-
-<br/><br/>
-
-✨ Building skills for real-world AI projects
+- Artificial Intelligence
+- Deep Learning
+- NLP and LLMs
+- Generative AI
+- AI application development
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Professional_Training-DataMites-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Real--World_Projects-A78BFA?style=flat-square"/>
+</p>
+
 ---
 
-## 📁 Projects
+## 📁 Projects Portfolio
 
 ### 📊 Data Science Projects
 
-<p><i>Click a project to explore its code and details.</i></p>
+<p><i>Explore my projects in data analysis, machine learning, and predictive modeling.</i></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Earthquake Damage Prediction
+<h3>🌍 Earthquake Damage Prediction</h3>
 
-Predicting earthquake damage using machine learning.
+Predicting earthquake damage using machine learning techniques.
 
+<p>
 <a href="https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML">
 <img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 Skin Disorder Prediction
+<h3>🩺 Skin Disorder Prediction</h3>
 
 Machine learning project for skin disorder prediction.
 
+<p>
 <a href="https://github.com/priyadharshini-11s/skin-disorder-prediction">
 <img src="https://img.shields.io/badge/Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦠 COVID-19 Cases Prediction
+<h3>🦠 COVID-19 Cases Prediction</h3>
 
-Analyzing COVID-19 data and predicting case trends.
+Exploring COVID-19 data and case prediction.
 
+<p>
 <a href="https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19">
 <img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Flight Fare Prediction
+<h3>✈️ Flight Fare Prediction</h3>
 
-Exploratory data analysis and flight fare prediction.
+Flight fare analysis, feature engineering, and prediction.
 
+<p>
 <a href="https://github.com/priyadharshini-11s/Flight-Fare-Prediction">
 <img src="https://img.shields.io/badge/Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### 📦 Forecasting Spare Parts Inventory
+<h3>📦 Forecasting Spare Parts Inventory</h3>
 
 Inventory forecasting project focused on spare parts demand.
 
@@ -255,15 +273,40 @@ Inventory forecasting project focused on spare parts demand.
 </tr>
 </table>
 
+---
+
 ### 🤖 AI Engineer Projects
 
-<p><i>Exploring AI engineering and intelligent application development.</i></p>
+<p><i>AI-focused projects showcasing intelligent applications and AI engineering skills.</i></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-Coming_Soon-A78BFA?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-### 🌐 Web Development
+<h3>🧠 AI Project Portfolio</h3>
+
+Exploring AI, deep learning, and intelligent solutions.
+
+<img src="https://img.shields.io/badge/AI_Projects-Coming_Soon-A78BFA?style=for-the-badge"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>✨ Generative AI</h3>
+
+Future projects in LLMs, RAG, and AI applications.
+
+<img src="https://img.shields.io/badge/GenAI_Projects-Coming_Soon-8B5CF6?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Web Development Projects
+
+<p><i>Building web development skills alongside AI and Data Science.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -271,9 +314,50 @@ Inventory forecasting project focused on spare parts demand.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center">
-  <i>Web development projects coming soon.</i>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>🎨 Frontend Development</h3>
+
+HTML · CSS · JavaScript
+
+<img src="https://img.shields.io/badge/Projects-Coming_Soon-A78BFA?style=flat-square"/>
+
+</td>
+<td align="center" width="50%">
+
+<h3>💻 Web Applications</h3>
+
+Learning and building web projects.
+
+<img src="https://img.shields.io/badge/Projects-Coming_Soon-8B5CF6?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Professional Training
+
+<table>
+<tr>
+<td align="center">
+
+🎓 **Data Science & AI Engineering**
+
+<br/><br/>
+
+🏢 DataMites
+
+<br/><br/>
+
+💜 Developing practical skills through training and projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -313,6 +397,8 @@ Inventory forecasting project focused on spare parts demand.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <b>🚀 Open to opportunities in AI Engineering, Data Science & Machine Learning.</b>
