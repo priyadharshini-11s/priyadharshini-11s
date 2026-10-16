@@ -115,6 +115,35 @@ Flask
 </p>
 
 
+
+<div align="center">
+
+<a href="https://github.com/priyadharshini-11s/Data-Science-Projects">
+
+<table>
+<tr>
+<td align="center" width="450">
+
+<h2>📊 Data Science Projects</h2>
+
+<p>Explore My 4 Projects</p>
+
+<p>🌍 Earthquake Damage Prediction</p>
+<p>🩺 Skin Disorder Prediction</p>
+<p>🦠 COVID-19 Cases Prediction</p>
+<p>✈️ Flight Price Prediction</p>
+
+<b>Click to View All Projects →</b>
+
+</td>
+</tr>
+</table>
+
+</a>
+
+</div>
+
+
 ## 📜 Certifications & Assessments
 
 | Certification / Assessment | Status                    |
