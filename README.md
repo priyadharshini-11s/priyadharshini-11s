@@ -215,67 +215,25 @@ Welcome to my project portfolio! Explore my work in Data Science, Machine Learni
 
 ## 🤖 AI Engineer Projects
 
-*Projects showcasing Artificial Intelligence, Deep Learning, Computer Vision, Image Classification, and Time Series Forecasting.*
+*Projects focused on Artificial Intelligence, Deep Learning, Computer Vision, Image Classification, and Time Series Forecasting.*
 
-### 1. 🌡️ Air Temperature Time Series Forecasting
-
-Forecasting air temperature using time series analysis and predictive modeling.
-
-**Project Code:** PRAICP-1003
-
-[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/AirTemperatureTime_series_forecasting.ipynb)
-
-### 2. 🩻 Pneumonia Chest X-Ray Classification
-
-Classifying chest X-ray images to identify pneumonia using deep learning and image classification techniques.
-
-[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/Pneumonia_XRay_Classification.ipynb)
-
-### 3. 🤟 Indian Sign Language Recognition
-
-Recognizing Indian Sign Language gestures using image processing and machine learning or deep learning techniques.
-
-[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/indiansignlanguagerecognition.ipynb)
-
-### 4. 🚦 Traffic Sign Detection Using Convolutional Neural Network (CNN)
-
-Detecting and classifying traffic signs using Convolutional Neural Networks and computer vision techniques.
-
-[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/trafficsignal%20(1).ipynb)
-
-### 5. 🧠 AI Project Portfolio
-
-Exploring intelligent applications, machine learning, deep learning, and AI-based solutions.
-
-![AI Projects](https://img.shields.io/badge/AI_Projects-Exploring-A78BFA?style=for-the-badge)
-
-### 6. ✨ Generative AI
-
-Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI applications.
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-Learning-8B5CF6?style=for-the-badge)
+| Project Name | Description | Project Link |
+|---|---|---|
+| 🌡️ Air Temperature Time Series Forecasting | Forecasting air temperature using time series analysis and predictive modeling. | [View Project](https://github.com/priyadharshini-11s/AI-Project/blob/main/AirTemperatureTime_series_forecasting.ipynb) |
+| 🩻 Pneumonia Chest X-Ray Classification | Classifying chest X-ray images for pneumonia detection using deep learning techniques. | [View Project](https://github.com/priyadharshini-11s/AI-Project/blob/main/Pneumonia_XRay_Classification.ipynb) |
+| 🤟 Indian Sign Language Recognition | Recognizing Indian Sign Language gestures using image processing and deep learning techniques. | [View Project](https://github.com/priyadharshini-11s/AI-Project/blob/main/indiansignlanguagerecognition.ipynb) |
+| 🚦 Traffic Sign Detection Using CNN | Detecting and classifying traffic signs using Convolutional Neural Networks (CNN). | [View Project](https://github.com/priyadharshini-11s/AI-Project/blob/main/trafficsignal%20(1).ipynb) |
 
 ---
 
 ## 🌐 Applications Projects
 
-*Building web applications using frontend technologies and practical web development skills.*
+*Web application project showcasing practical website development skills.*
 
-### 🎨 Article Portable Website
+| Project Name | Description | Project Link |
+|---|---|---|
+| 🎨 Article Portable Website | A web-based application for presenting article-related content. | [Live Website](https://priyadharshini-11s.github.io/Project-Application-/) |
 
-A web-based application project focused on presenting article-related content through a website.
-
-**Live Website:** [🚀 Visit Article Portable Website](https://priyadharshini-11s.github.io/Project-Application-/)
-
-**Technologies:** HTML · CSS · JavaScript
-
-### 💻 Frontend Development
-
-Developing interactive and responsive websites using HTML, CSS, and JavaScript.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
