@@ -193,146 +193,91 @@ REST APIs
 
 
 
-## 📁 Projects Portfolio
+# 📁 Projects Portfolio
 
-### 📊 Data Science Projects
+Welcome to my project portfolio! Explore my work in Data Science, Machine Learning, Artificial Intelligence, Deep Learning, and Web Development.
 
-<p><i>Explore my projects in data analysis, machine learning, and predictive modeling.</i></p>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📊 Data Science Projects
 
-<h3>🌍 Earthquake Damage Prediction</h3>
+*Projects focused on data analysis, machine learning, predictive modeling, and forecasting.*
 
-Predicting earthquake damage using machine learning techniques.
+| Project Name | Description | Project Link |
+|---|---|---|
+| 🌍 Earthquake Damage Prediction | Predicting earthquake damage using machine learning techniques. | [View Project](https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML) |
+| 🩺 Skin Disorder Prediction | Machine learning-based skin disorder prediction. | [View Project](https://github.com/priyadharshini-11s/skin-disorder-prediction) |
+| 🦠 COVID-19 Cases Prediction | COVID-19 data analysis and case prediction. | [View Project](https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19) |
+| ✈️ Flight Fare Prediction | Flight fare analysis, feature engineering, and predictive modeling. | [View Project](https://github.com/priyadharshini-11s/Flight-Fare-Prediction) |
+| 📦 Spare Parts Inventory Forecasting | Forecasting spare parts demand and inventory requirements. | [View Project](https://github.com/priyadharshini-11s/spare-parts-inventory-forecasting) |
 
-<p>
-<a href="https://github.com/priyadharshini-11s/Earthquake-Damage-Prediction-ML">
-<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+---
 
-</td>
-<td width="50%" valign="top">
+## 🤖 AI Engineer Projects
 
-<h3>🩺 Skin Disorder Prediction</h3>
+*Projects showcasing Artificial Intelligence, Deep Learning, Computer Vision, Image Classification, and Time Series Forecasting.*
 
-Machine learning project for skin disorder prediction.
+### 1. 🌡️ Air Temperature Time Series Forecasting
 
-<p>
-<a href="https://github.com/priyadharshini-11s/skin-disorder-prediction">
-<img src="https://img.shields.io/badge/Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+Forecasting air temperature using time series analysis and predictive modeling.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Project Code:** PRAICP-1003
 
-<h3>🦠 COVID-19 Cases Prediction</h3>
+[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/AirTemperatureTime_series_forecasting.ipynb)
 
-Exploring COVID-19 data and case prediction.
+### 2. 🩻 Pneumonia Chest X-Ray Classification
 
-<p>
-<a href="https://github.com/priyadharshini-11s/PRCP-1023-JohnsHopkinsCovid19">
-<img src="https://img.shields.io/badge/Explore_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+Classifying chest X-ray images to identify pneumonia using deep learning and image classification techniques.
 
-</td>
-<td width="50%" valign="top">
+[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/Pneumonia_XRay_Classification.ipynb)
 
-<h3>✈️ Flight Fare Prediction</h3>
+### 3. 🤟 Indian Sign Language Recognition
 
-Flight fare analysis, feature engineering, and prediction.
+Recognizing Indian Sign Language gestures using image processing and machine learning or deep learning techniques.
 
-<p>
-<a href="https://github.com/priyadharshini-11s/Flight-Fare-Prediction">
-<img src="https://img.shields.io/badge/Explore_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/indiansignlanguagerecognition.ipynb)
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+### 4. 🚦 Traffic Sign Detection Using Convolutional Neural Network (CNN)
 
-<h3>📦 Forecasting Spare Parts Inventory</h3>
+Detecting and classifying traffic signs using Convolutional Neural Networks and computer vision techniques.
 
-Inventory forecasting project focused on spare parts demand.
+[🔗 View Project on GitHub](https://github.com/priyadharshini-11s/AI-Project/blob/main/trafficsignal%20(1).ipynb)
 
-<a href="https://github.com/priyadharshini-11s/spare-parts-inventory-forecasting">
-<img src="https://img.shields.io/badge/Explore_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 5. 🧠 AI Project Portfolio
 
-</td>
-</tr>
-</table>
+Exploring intelligent applications, machine learning, deep learning, and AI-based solutions.
 
+![AI Projects](https://img.shields.io/badge/AI_Projects-Exploring-A78BFA?style=for-the-badge)
 
+### 6. ✨ Generative AI
 
-### 🤖 AI Engineer Projects
+Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI applications.
 
-<p><i>AI-focused projects showcasing intelligent applications and AI engineering skills.</i></p>
+![Generative AI](https://img.shields.io/badge/Generative_AI-Learning-8B5CF6?style=for-the-badge)
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+---
 
-<h3>🧠 AI Project Portfolio</h3>
+## 🌐 Applications Projects
 
-Exploring AI, deep learning, and intelligent solutions.
+*Building web applications using frontend technologies and practical web development skills.*
 
-<img src="https://img.shields.io/badge/AI_Projects-Coming_Soon-A78BFA?style=for-the-badge"/>
+### 🎨 Article Portable Website
 
-</td>
-<td width="50%" valign="top" align="center">
+A web-based application project focused on presenting article-related content through a website.
 
-<h3>✨ Generative AI</h3>
+**Live Website:** [🚀 Visit Article Portable Website](https://priyadharshini-11s.github.io/Project-Application-/)
 
-Future projects in LLMs, RAG, and AI applications.
+**Technologies:** HTML · CSS · JavaScript
 
-<img src="https://img.shields.io/badge/GenAI_Projects-Coming_Soon-8B5CF6?style=for-the-badge"/>
+### 💻 Frontend Development
 
-</td>
-</tr>
-</table>
+Developing interactive and responsive websites using HTML, CSS, and JavaScript.
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🌐 Web Development Projects
-
-<p><i>Building web development skills alongside AI and Data Science.</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<h3>🎨 Frontend Development</h3>
-
-HTML · CSS · JavaScript
-
-<img src="https://img.shields.io/badge/Projects-Coming_Soon-A78BFA?style=flat-square"/>
-
-</td>
-<td align="center" width="50%">
-
-<h3>💻 Web Applications</h3>
-
-Learning and building web projects.
-
-<img src="https://img.shields.io/badge/Projects-Coming_Soon-8B5CF6?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+---
 
 
 
