@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/priyadharshini-11s">
+  <a href=" https://priyadharshini-11s.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/GitHub-My%20Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
