@@ -285,7 +285,7 @@ Currently pursuing professional training in Data Science and Artificial Intellig
   <a href="https://www.linkedin.com/in/priya-s2001">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/priyadharshini-11s">
+  <a href=" https://priyadharshini-11s.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
