@@ -259,9 +259,9 @@ Currently pursuing professional training in Data Science and Artificial Intellig
 
 | Certification / Assessment | Status |
 |:---|:---|
-| 🎓 DataMites | Course completion pending |
+| 🎓 DataMites | Course completion  |
 | 📘 NASSCOM | Assessment planned |
-| 📗 IABAC | Assessment planned |
+| 📗 IABAC | Assessment |
 
 
 
